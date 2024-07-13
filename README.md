@@ -5,6 +5,10 @@
 
 ---
 
+### To play the app, click [here](https://tsimurkurchyshyn.github.io/Simple-Calculator-App/)
+
+---
+
 This App was made by using languages HTML and CSS.
 
 ---
